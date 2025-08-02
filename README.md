@@ -40,6 +40,7 @@ Run the following command to install all necessary packages:
 pip install -r requirements.txt
 
 
+
 Register a Voter
 
 In the Explorer (left panel), open the file add_faces.py.
@@ -50,6 +51,7 @@ Enter the voter's Aadhar number when prompted.
 
 The webcam will open and capture facial images automatically.
 
+
 Cast a Vote
 
 Open give_vote.py in the editor.
@@ -57,6 +59,7 @@ Open give_vote.py in the editor.
 Right-click inside the file and select “Run Python File in Terminal”.
 
 The webcam will recognize the voter.
+
 
 Once recognized, press the corresponding number key:
 
